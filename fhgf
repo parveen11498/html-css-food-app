@@ -1,0 +1,21 @@
+<h1>Order Now</h1>
+    <div class="container">
+        <div class="custom-div">
+         <img class="img1" src="img4.jpg">
+         <h2>BURGER</h2>
+         <p>Cuisine options include pan-Asian flavors, Italian food, Mexican food, burgers and deli options.</p>
+        </div>
+      
+        <div class="custom-div">
+            <img class="img1" src="img2.jpg">
+            <h2>PIZZA</h2>
+            <p>Pizza is a dish of Italian origin consisting of a usually round, flat base of leavened  
+  </p>
+        </div>
+        <div class="custom-div">
+            <img class="img1" src="img3.jpg">
+            <h2>PASTA</h2>
+            <p>Pasta is a type of food typically made from an unleavened dough of wheat flour mixed</p>
+          </div>
+      </div>
+      <button class="custom-button"><b>Order</b></button>
